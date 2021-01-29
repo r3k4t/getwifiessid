@@ -1,4 +1,5 @@
-
+[![python](https://img.shields.io/badge/Program-Python-purple.svg)](https://www.python.org/downloads/release/python/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 # Get Wifi Essid
 
 ![Screenshot from 2021-01-29 16-09-06](https://user-images.githubusercontent.com/69615463/106274474-86073800-625e-11eb-8949-082943c245b0.png)
